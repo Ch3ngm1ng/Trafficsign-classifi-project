@@ -37,6 +37,7 @@ Tianyu Pan - tpan1@ufl.edu
 Shuhao Zhang - shuhaozhang@ufl.edu
 
 Project Link: [https://github.com/EEL5840-EEE4773-Summer2022/final-project-gpa-6-0](https://github.com/EEL5840-EEE4773-Summer2022/final-project-gpa-6-0)
+Train function and test code link: [https://pan.baidu.com/s/1YMPL3AJgFMc4gUiIKlPu3Q](https://pan.baidu.com/s/1YMPL3AJgFMc4gUiIKlPu3Q), code: p28f
 ## Thank you
 
 
